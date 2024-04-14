@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    color: #0e0d0d;
+    background-color: #ff9900;
+}
+header {
+    background-color: #00001d;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
+}
+.question {
+    margin-bottom: 0px;
+    padding: 0px;
+    border: 30px solid #ff9900;
+    text-align: center;
+}
